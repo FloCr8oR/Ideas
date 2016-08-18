@@ -1,4 +1,4 @@
-# openCoLab
-openCoLab initiatives
+# Ideas
+openCoLab Ideas Stage
 
-Where we keep stuff on projects in play that we can share.
+Where we keep info on ideas dreamt up (or stolen, haha).
